@@ -10,5 +10,7 @@
 
 - paste this `* * * * * . /your/path/500px_background/crontabBackground.sh`
 
+- Edit your path in crontabBackground.sh
+
 Bye ;)
 
